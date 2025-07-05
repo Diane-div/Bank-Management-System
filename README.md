@@ -1,4 +1,4 @@
-💼 Bank Management System
+💼 Bank Management System\n
 This C++-based Bank Management System is a console application designed to simulate basic banking operations. It allows users to create new accounts, view all account holders, search specific accounts, and perform deposit or withdrawal transactions. The program uses Object-Oriented Programming (OOP) concepts like classes and encapsulation to structure the code efficiently.
 
 🔧 Key Features:
